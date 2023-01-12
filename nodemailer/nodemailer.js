@@ -17,7 +17,7 @@ module.exports.mail= async (str,data) => {
   });
 
   const options = {
-from:"notimetowastedeveloper@outlook.com",
+from:"access@nt2W.se",
 to:data.Email,
 subject: "NoTimeToWaste - Access Code ", 
 html: `
